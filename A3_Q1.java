@@ -1,9 +1,9 @@
-// --------------------------------------------------------------------
-		// Assignment 3 Question 1
-		// Written by: Yuqian Cai (40187954)
-		// For COMP 248 Section (EC) – Winter 2023
-		// --------------------------------------------------------------------
-		//algorithm of question one is on the text file
+//Simple Brilliant Mind Game Jackpot Program:
+//Using nested loops to build a Java program that handles a game called "Brilliant Mind". 
+//The game involves processing scores from different categories like Science, Literature, Sports, etc., 
+//each with a unique scoring system. The scores for each category are computed based on numbers that are not
+//multiples of the category number. The results are displayed, and the score is cumulatively updated as the player
+//progresses through the categories
 		
 import java.util.Scanner;
 
