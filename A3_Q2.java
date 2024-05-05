@@ -1,11 +1,9 @@
-// --------------------------------------------------------------------
-// Assignment 3 Question 2
-// Written by: Yuqian Cai (40187954)
-// For COMP 248 Section (EC) – Winter 2023
-// --------------------------------------------------------------------
-//algorithm of question two is on the text file
-//comp_u-248;Soen_G-348;MATH_w-332;sTat_h-228
-//enel_s-325;SOEN_f-287;comp_t-248;COMp_w-248
+//Simple Exam Registration Program:
+//This task involves using arrays to manage a registration system for exams, 
+//specifically tailored for the Access Center for Students with Disabilities at school.
+//The program should allow for listing courses, adding students and courses, and displaying course details. 
+//The user interactions are handled through a menu-driven interface, where inputs are validated, 
+//and the list of courses can be updated and displayed based on the user's choices.
 
 import java.util.Scanner;
 
