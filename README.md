@@ -1,24 +1,12 @@
-# Java OOP Introduction to Programming
+# Simple Brilliant Mind Game Jackpot Program
 
-Welcome to my Java OOP Introduction to Programming repository! This repository covers fundamental concepts of object-oriented programming (OOP) using Java.
+## Overview
+This Java program simulates the "Brilliant Mind" game, developed for COMP 248 at Concordia University. Players answer questions from different categories, earning scores which are not multiples of the category number. The scores are cumulative across categories.
 
-## Topics Covered
-- Basic data types, variables, expressions, assignments
-- Control flow: if-else statements, loops
-- Classes, objects, methods
-- Information hiding, public vs. private visibility
-- Data abstraction and encapsulation
-- References
-- Arrays
-- Design of classes
-- Inheritance
-- Polymorphism
-- Static and dynamic binding
-- Abstract classes
-- Exception handling
-- File I/O
-- Recursion
-- Interfaces and inner classes
-- Graphical user interfaces
-- Generics
-- Collections and iterators
+## Features
+- Implements nested loops to calculate scores.
+- User-friendly prompts to ensure easy interaction.
+- Display cumulative scores and category results.
+
+## Installation
+Clone this repository to your local machine
